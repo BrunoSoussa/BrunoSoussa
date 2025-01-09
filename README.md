@@ -16,7 +16,7 @@ Atualmente trabalho em um projeto para o Governo do Estado do Piauí, criando so
 - Automação de extração de dados usando **OCR**.  
 - Detecção de câncer de pele com **TensorFlow** e **Keras**.  
 
-### **Cofundador e Cientista de Dados** | Achô  
+### **CTO e Cientista de Dados** | Achô  
 Desenvolvi um sistema que conectava usuários a empresas com base em intenções de compra:  
 - Criação de um modelo com **92% de precisão** em 50 categorias.  
 - Integração automatizada e eficiente, facilitando a comunicação entre usuários e empresas.  
