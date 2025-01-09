@@ -56,6 +56,7 @@ Desenvolvi um sistema que conectava usuários a empresas com base em intenções
 
 ## 🌍 Idiomas  
 - **Inglês**
+- **Português**
 
 ---
 
