@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Bruno Sousa  
+# 👋 Olá! Eu sou o Bruno
 
 Sou um **Cientista de Dados** apaixonado por tecnologia e inovação. Transformo dados em soluções inteligentes que impactam vidas, usando **inteligência artificial**, **aprendizado profundo** e **análise de dados**. Com experiência em projetos desafiadores e conhecimentos em tecnologias de ponta, estou sempre aprendendo e compartilhando o que sei.  
 
