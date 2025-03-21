@@ -7,16 +7,15 @@ Sou um **Cientista de Dados** apaixonado por tecnologia e inovação. Transformo
 ## 💼 Experiência Profissional  
 
 ### **Cientista de Dados** | JM2  
-*Abr/2023 – Atual*  
+*Nov/2022 – Atual*  
 Atualmente trabalho em um projeto para o Governo do Estado do Piauí, criando soluções avançadas com **Inteligência Artificial**:  
 - Especialista nos principais LLMs do mercado, como GPT (OpenAI), LLaMA (Meta), Bloom (BigScience) e Claude (Anthropic).  
 - Desenvolvimento de pipelines eficientes com frameworks como **Transformers (Hugging Face)** e **LangChain**.  
 - Criação de APIs escaláveis usando **Flask** e servidores **Nginx**.  
 - Implementação de algoritmos de busca em bases complexas, como o **ChromaDB**.  
 - Automação de extração de dados usando **OCR**.  
-- Detecção de câncer de pele com **TensorFlow** e **Keras**.  
-
-### **CTO e Cientista de Dados** | Achô  
+- Detecção de câncer de pele com **TensorFlow** e **Keras**.
+   
 Desenvolvi um sistema que conectava usuários a empresas com base em intenções de compra:  
 - Criação de um modelo com **92% de precisão** em 50 categorias.  
 - Integração automatizada e eficiente, facilitando a comunicação entre usuários e empresas.  
@@ -55,7 +54,7 @@ Desenvolvi um sistema que conectava usuários a empresas com base em intenções
 ---
 
 ## 🌍 Idiomas  
-- **Inglês**: Intermediário – Leitura, audição e comunicação em situações simples, com foco constante em evolução.  
+- **Inglês**: Avançado.  
 
 ---
 
